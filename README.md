@@ -1,5 +1,5 @@
 # to-be-architect
-to be a Java architect，you should learn these.
+to be a Java architect，you should learn these.This page is updated irregularly. 
 
 # Java基础
 
@@ -175,7 +175,7 @@ to be a Java architect，you should learn these.
 - 手写实现多协议Rpc框架
 
 ## 分布式解决方案
-- 分布式全局ID生成方案
+- [分布式全局ID生成方案](https://www.cnblogs.com/jajian/p/11101213.html)
 - 分布式事务解决方案实战
 - 基于分布式架构下分布式锁的解决方案
 - 高并发下的服务降级、限流实战
@@ -192,6 +192,7 @@ to be a Java architect，you should learn these.
 - 如何设计微服务及其设计原则
 - 解惑Spring Boot流行因素及能够解决什么问题
 - 什么是Spring Cloud，为何要选择Spring Cloud
+- [从单体架构升级到微服务，在代码层面应注意的一些问题](https://www.cnblogs.com/jajian/p/11101196.html)
 
 ## SpringBoot框架
 - Springboot与微服务之间的关系
@@ -352,6 +353,7 @@ to be a Java architect，you should learn these.
 - [IntelliJ IDEA（十） ：常用操作](https://www.cnblogs.com/jajian/p/9056730.html)
 - [IntelliJ IDEA（十一） ：Debug的使用](https://www.cnblogs.com/jajian/p/9410844.html)
 - [IntelliJ IDEA 2018.3 重大升级，哪些功能打动了你？](https://www.cnblogs.com/jajian/p/10017577.html)
+- [通过IDEA快速定位和排除依赖冲突](https://www.cnblogs.com/jajian/p/11002521.html)
 
 # 随笔杂文
 ## 个人博客
@@ -363,3 +365,4 @@ to be a Java architect，you should learn these.
 - [程序员为什么会有职业瓶颈？](https://www.cnblogs.com/jajian/p/10325884.html)
 - [记一次在咸鱼上购买 MacBook Pro 的经历](https://www.cnblogs.com/jajian/p/10466082.html)
 - [作为程序员你是如何学习的？](https://www.cnblogs.com/jajian/p/10680563.html)
+- [我是技术总监，你干嘛总问我技术细节？](https://www.cnblogs.com/jajian/p/11091519.html)
