@@ -28,20 +28,20 @@ to be a Java architect，you should learn these.
 - ReadWriteLock
 - LockSupport
 
-##并发类编程工具
+## 并发类编程工具
 - CountDownLatch
 - CyclicBarrier
 - Semaphore
 - Exchange
 
-##并发编程容器collections
+## 并发编程容器collections
 - 并发Queue：BlockingQueue
 - Map：ConcurrentHashMap、HashMap、HashTable
 - 并发List Set：CopyOnWriteArrayList、CopyOnWriteArraySet、
 - ArrayList、 LinkedList
 - ConcurrentHashMap为何如此优秀?
 
-##内存模型
+## 内存模型
 - Condition
 - 简单却强大的 CAS
 - AQS的原理浅析
